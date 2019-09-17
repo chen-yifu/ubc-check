@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/unamed.iml" filepath="$PROJECT_DIR$/.idea/unamed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ubc-check.iml" filepath="$PROJECT_DIR$/.idea/ubc-check.iml" />
     </modules>
   </component>
 </project>

@@ -15,10 +15,10 @@ https://youtu.be/hD_jBz1uzCw
 
 part1:
 
-<img src="https://github.com/chen-yifu/ubc-check/blob/master/demo-1.gif" width="680" height="450"> 
+<img src="https://github.com/chen-yifu/ubc-check/blob/master/demo-1.gif" width="740" height="450"> 
 part2:
 
-<img src="https://github.com/chen-yifu/ubc-check/blob/master/demo-2.gif" width="680" height="450"> 
+<img src="https://github.com/chen-yifu/ubc-check/blob/master/demo-2.gif" width="740" height="450"> 
 
 
 Note: Majority of project forked from https://github.com/cyrussassani/ubc-coursecheck

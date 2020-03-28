@@ -13,6 +13,7 @@ https://youtu.be/hD_jBz1uzCw
 
 ## DEMO (GIF version):
 
+Note: Sorry for the quick GIF speed. Also, my GIF-maker allows a maximum of 30 seconds, so it was split into 2 parts.
 part1:
 
 <img src="https://github.com/chen-yifu/ubc-check/blob/master/demo-1.gif" width="740" height="450"> 

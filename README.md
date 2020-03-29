@@ -24,4 +24,4 @@ part2:
 <img src="https://github.com/chen-yifu/ubc-check/blob/master/demo-2.gif" width="740" height="450"> 
 
 
-Note: Majority of project forked from https://github.com/cyrussassani/ubc-coursecheck
+Note: This repository is a modification of the project from https://github.com/cyrussassani/ubc-coursecheck
